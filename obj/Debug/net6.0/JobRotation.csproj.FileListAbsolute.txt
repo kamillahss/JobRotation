@@ -1,0 +1,15 @@
+D:\Kamilla\JobRotation\JobRotation\bin\Debug\net6.0\JobRotation.exe
+D:\Kamilla\JobRotation\JobRotation\bin\Debug\net6.0\JobRotation.deps.json
+D:\Kamilla\JobRotation\JobRotation\bin\Debug\net6.0\JobRotation.runtimeconfig.json
+D:\Kamilla\JobRotation\JobRotation\bin\Debug\net6.0\JobRotation.dll
+D:\Kamilla\JobRotation\JobRotation\bin\Debug\net6.0\JobRotation.pdb
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.csproj.AssemblyReference.cache
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.AssemblyInfoInputs.cache
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.AssemblyInfo.cs
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.csproj.CoreCompileInputs.cache
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.dll
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\refint\JobRotation.dll
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.pdb
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\JobRotation.genruntimeconfig.cache
+D:\Kamilla\JobRotation\JobRotation\obj\Debug\net6.0\ref\JobRotation.dll
